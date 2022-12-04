@@ -1,0 +1,6 @@
+{
+    "name": "Pascal",
+    "image": "frolvlad/alpine-fpc",
+    "settings": {},
+    "extensions": ["alefragnani.pascal"]
+}

@@ -5,3 +5,4 @@ Each solution has a VS Code [devcontainer](https://code.visualstudio.com/docs/re
 ## Solutions
 
 1. [Lisp](1/main.lsp)
+2. [Pascal](2/main.pas)
