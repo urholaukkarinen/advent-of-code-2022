@@ -1,0 +1,6 @@
+{
+    "name": "Lisp",
+    "image": "daewok/lisp-devel",
+    "settings": {},
+    "extensions": ["qingpeng.common-lisp"]
+}
