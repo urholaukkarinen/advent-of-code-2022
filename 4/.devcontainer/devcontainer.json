@@ -1,0 +1,6 @@
+{
+    "name": "Ada",
+    "image":  "tomekw/ada-gnat",
+    "settings": {},
+    "extensions": ["AdaCore.ada"]
+}

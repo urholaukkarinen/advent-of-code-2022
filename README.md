@@ -7,3 +7,4 @@ Each solution has a VS Code [devcontainer](https://code.visualstudio.com/docs/re
 1. [Lisp](1/main.lsp)
 2. [Pascal](2/main.pas)
 3. [Scala](3/main.scala)
+4. [Ada](4/main.adb)
