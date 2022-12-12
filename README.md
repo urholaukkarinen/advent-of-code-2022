@@ -8,3 +8,4 @@ Each solution has a VS Code [devcontainer](https://code.visualstudio.com/docs/re
 2. [Pascal](2/main.pas)
 3. [Scala](3/main.scala)
 4. [Ada](4/main.adb)
+5. [Julia](5/main.jl)
