@@ -9,3 +9,4 @@ Each solution has a VS Code [devcontainer](https://code.visualstudio.com/docs/re
 3. [Scala](3/main.scala)
 4. [Ada](4/main.adb)
 5. [Julia](5/main.jl)
+6. [Groovy](6/main.groovy)
