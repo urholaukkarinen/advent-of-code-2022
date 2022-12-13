@@ -1,0 +1,6 @@
+{
+    "name": "Dart",
+    "image":  "dart:2.18.5",
+    "settings": {},
+    "extensions": ["Dart-Code.dart-code"]
+}
