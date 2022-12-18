@@ -1,0 +1,9 @@
+{
+    "name": "Koka",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "args": { "VERSION": "2.4.0" }
+    },
+    "settings": {},
+    "extensions": ["maelvalais.koka"]
+}

@@ -11,3 +11,4 @@ Each solution has a VS Code [devcontainer](https://code.visualstudio.com/docs/re
 5. [Julia](5/main.jl)
 6. [Groovy](6/main.groovy)
 7. [Dart](7/main.dart)
+8. [Koka](8/main.kk)
