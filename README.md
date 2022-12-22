@@ -12,3 +12,4 @@ Each solution has a VS Code [devcontainer](https://code.visualstudio.com/docs/re
 6. [Groovy](6/main.groovy)
 7. [Dart](7/main.dart)
 8. [Koka](8/main.kk)
+9. [Haskell](9/main.hs)
