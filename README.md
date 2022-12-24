@@ -13,3 +13,4 @@ Each solution has a VS Code [devcontainer](https://code.visualstudio.com/docs/re
 7. [Dart](7/main.dart)
 8. [Koka](8/main.kk)
 9. [Haskell](9/main.hs)
+10. [F#](10/main.fsx)
